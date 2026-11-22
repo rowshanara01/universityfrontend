@@ -25,7 +25,7 @@ A modern, responsive frontend for a **multivendor e-commerce platform**, where m
 
 #### Getting Started
 
-### Prerequisites
+#### Prerequisites
 
 - [Node.js](https://nodejs.org/) (v18 or later)
 - npm or yarn
